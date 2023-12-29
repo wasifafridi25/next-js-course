@@ -1,0 +1,12 @@
+Next is better cause it makes react a lot more simpler like React makes JS simpler.
+Better SEO than react
+In React we have Client Side rendering. The browser starts off with an empty html file, which is the index.html 
+file that just has the div. So, google bots can't read that and index it to rank well.
+Then the browser uses JS to fetch the content using JS
+
+But initially with no content gives bad SEO
+
+So, now with Next JS we get Server side rendering. The content gets loaded on the server(let's s ay vercel for example)
+and then the server sends the content to the browser.
+So, the first thing the browser/client sees isthe fully loaded content, not empty
+So, google's bots can go through their content and index them and rank them well. 
